@@ -52,3 +52,28 @@ li {
 }
 
 /* Improvements */
+main > h1 {
+    font-size: 3rem;
+    margin: 0;
+}
+main {
+  width: 20%;
+  padding: 48px;
+}
+.content {
+  margin: 24px 0;
+  padding: 32px;
+  background-color: #184ba1;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
+}
+
+.content h3 {
+  margin-bottom: 16px;
+}
+
+.content ul li {
+  display: flex;
+  justify-content: space-between;
+  z-index: 1000;
+  font-size: 14px;
+} 
