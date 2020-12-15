@@ -1,11 +1,10 @@
 /* Viewport Width => vw -- Viewport Height => vh */
 img {
-  /* width: 50vw;
-  height: 50vh; */
+  width: 50vw;
+  height: 50vh;
 
-  /* border: lightslategray 0.2rem solid;
 
-  object-fit: contain; */
+  object-fit: contain;
 }
 
 /* Vmin -- Vmax */
